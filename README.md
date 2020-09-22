@@ -7,5 +7,5 @@ The Task Manager is a RESTful API that allows customers to track their tasks and
 + Jest
 
 ## What's next?
-+ Set up the front-side with React.js and css
++ Set up the front-side with React.js and CSS
 + Deploy online with Heroku
