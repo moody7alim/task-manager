@@ -1,5 +1,5 @@
 # The Task Manager
-The Task Manager is a RESTful API that allows customers to track their tasks and update its status.
+The Task Manager is a RESTful API that allows customers to track their tasks and update their status.
 
 ## Languaes and Technologies used
 + Node.js
